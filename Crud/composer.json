@@ -1,0 +1,22 @@
+{
+    "name": "vikas/crud",
+    "description": "crud",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikas Rathod",
+            "email": "vikasrathod1007@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+
+        "psr-4": {
+
+            "sqlcrud\\": "src"
+
+        }
+
+    }
+}
